@@ -1,0 +1,8 @@
+pip install sqlalchemy
+pip install MySQL-python
+pip install PyMySQL
+pip install mysqlclient
+pip install cryptography
+pip install streamlit
+pip install scipy
+pip install sklearn
