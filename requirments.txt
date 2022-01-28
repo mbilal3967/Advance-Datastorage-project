@@ -6,3 +6,5 @@ pip install cryptography
 pip install streamlit
 pip install scipy
 pip install sklearn
+matplotlib
+jupyter
